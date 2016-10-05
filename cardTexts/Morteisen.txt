@@ -1,0 +1,6 @@
+Name: Morteisen<br>
+Rate: 3<br>
+Attack: Melee<br>
+Special: <br>
+Type: <br>
+Deck: Nilfgaard<br>

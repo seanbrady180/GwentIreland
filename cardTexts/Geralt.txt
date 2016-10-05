@@ -1,0 +1,5 @@
+Name: Geralt of Rivia<br>
+Rate: 15<br>
+Attack: Melee<br>
+Type: Hero<br>
+Deck: Neutral<br>

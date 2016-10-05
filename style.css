@@ -1,0 +1,110 @@
+html,body{
+    margin:0;
+    padding:0;
+    height:100%;
+    width:100%;
+}
+#wrapper{
+    background-image: url(Images/gwentBck.jpg);
+    height:1000px;
+    width:100%;
+    overflow:hidden;
+}
+
+#leftContainer{
+    background-color:clear;
+    height:100%;
+    width:35%;
+    float:left;
+} 
+
+#centerContainer{
+    background-color:clear;
+    height:100%;
+    width:25%;
+    float:left;
+}
+
+#rightContainer{
+    background-color:clear;
+    height:100%;
+    width:40%;
+    float:left;
+    
+}
+
+#bigview{
+    background-color:clear;
+    height:27.5%;
+    width:47%;
+    float:left;
+    margin-top:10px;
+    margin-left:10px;
+    
+    
+}
+
+#ajaxDesc{
+    background-color:clear;
+    height:15%;
+    width:60%;
+    float:left;
+    margin-top:150px;
+    margin-bottom:10px;
+    color:white;
+    padding-left:5px;
+    position:relative;
+}
+
+
+#rssFeed{
+    background-color:clear;
+    height:20%;
+    width:100%;
+    float:left; 
+    color:white;
+    position:relative;
+}
+
+#backgroundInfo{
+    background-color:clear;
+    height:30%;
+    width:100%;
+    float:right;
+    text-align:center;
+    font:arial;
+    color:white;
+    margin-right:15px;
+    position:relative;
+}
+
+
+#cards{
+    background-color:clear;
+    height:50%;
+    width:100%;
+    float:left;
+    font:arial;
+    color:white;
+    overflow:auto;
+    margin-top:75px;
+    position:relative;
+    
+}
+
+#CaC{
+    background-color:clear;
+    height:70%;
+    width:100%;
+    float:left;
+    font:arial;
+    color:white;
+    margin-top:250px;
+    position:relative;
+    
+}
+
+.select{
+   margin:0;
+
+}

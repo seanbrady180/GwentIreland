@@ -1,0 +1,6 @@
+Name: Siegfried of Denesle<br>
+Rate: 5<br>
+Attack: Mele<br>
+Special: <br>
+Type: <br>
+Deck: Nothern Realms<br>

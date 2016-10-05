@@ -1,0 +1,6 @@
+Name: Ida Emean<br>
+Rate: 6<br>
+Attack: Ranged<br>
+Special: Morale<br>
+Type: <br>
+Deck: Scoia'tael<br>

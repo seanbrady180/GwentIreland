@@ -1,0 +1,6 @@
+Name: Isengrim Faoiltiarna<br>
+Rate: 10<br>
+Attack: Ranged<br>
+Special: Morale<br>
+Type: <br>
+Deck: Scoia'tael<br>

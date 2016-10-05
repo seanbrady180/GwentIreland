@@ -1,0 +1,6 @@
+Name: Triss Merigold<br>
+Rate: 7<br>
+Attack: Melee<br>
+Special: <br>
+Type: Hero<br>
+Deck: Neutral<br>

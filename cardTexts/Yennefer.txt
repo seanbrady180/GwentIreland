@@ -1,0 +1,6 @@
+Name: Yennefer of Vengerberg<br>
+Rate: 7<br>
+Attack: Ranged<br>
+Special: Medic<br>
+Type: Hero<br>
+Deck: Neutral<br>

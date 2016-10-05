@@ -1,0 +1,5 @@
+Git commands for adding 
+
+git add (whatever file you altered)
+git commit -m 'changes you made and your initials'
+git push -u origin master

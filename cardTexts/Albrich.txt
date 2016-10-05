@@ -1,0 +1,6 @@
+Name: Albrich<br>
+Rate: 2<br>
+Attack: Ranged<br>
+Special: <br>
+Type: <br>
+Deck: Nilfgaard<br>

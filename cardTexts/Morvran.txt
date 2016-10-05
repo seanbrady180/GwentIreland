@@ -1,0 +1,6 @@
+Name: Morvran Voorhis<br>
+Rate: 10<br>
+Attack: Siege<br>
+Special: <br>
+Type: Hero<br>
+Deck: Nilfgaard<br>

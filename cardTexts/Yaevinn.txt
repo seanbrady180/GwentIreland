@@ -1,0 +1,6 @@
+Name: Yaevinn<br>
+Rate: 6<br>
+Attack: Melee/Ranged<br>
+Special: Agile<br>
+Type: <br>
+Deck: Scoia'tael<br>

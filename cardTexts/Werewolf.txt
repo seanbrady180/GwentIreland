@@ -1,0 +1,6 @@
+Name: Werewolf<br>
+Rate: 5<br>
+Attack: Melee<br>
+Special: <br>
+Type: <br>
+Deck: Monsters<br>

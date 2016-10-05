@@ -1,0 +1,6 @@
+Name: Fringilla Vigo<br>
+Rate: 6<br>
+Attack: Ranged<br>
+Special: <br>
+Type: <br>
+Deck: Nilfgaard<br>

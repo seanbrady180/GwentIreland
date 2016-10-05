@@ -1,0 +1,6 @@
+Name: Toruviel<br>
+Rate: 2<br>
+Attack: Ranged<br>
+Special: <br>
+Type: <br>
+Deck: Scoia'tael<br>

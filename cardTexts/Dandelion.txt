@@ -1,0 +1,6 @@
+Name: Dandelion<br>
+Rate: 2<br>
+Attack: Melee<br>
+Special: Morale<br>
+Type: <br>
+Deck: Neutral<br>

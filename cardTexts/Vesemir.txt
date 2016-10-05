@@ -1,0 +1,6 @@
+Name: Vesemir<br>
+Rate: 6<br>
+Attack: Melee<br>
+Special:<br>
+Type: <br>
+Deck: Neutral<br>

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="cards.xsl"?>
+<PACK>
+	<CARD>
+		<NAME>Geralt of Rivia</NAME>
+		<RATE>15</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Neutral</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Cirilla Fiona Elen Rianno</NAME>
+		<RATE>15</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Neutral</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Vesemir</NAME>
+		<RATE>6</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Neutral</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Yennefer of Vengerberg</NAME>
+		<RATE>7</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL>Medic</SPECIAL>
+		<TYPE>Hero</TYPE>
+		<DECK>Neutral</DECK>
+	</CARD>
+		<CARD>
+		<NAME>Triss Merigold</NAME>
+		<RATE>7</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Neutral</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Dandelion</NAME>
+		<RATE>2</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL>Morale</SPECIAL>
+		<TYPE/>
+		<DECK>Neutral</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Zoltan Chivay</NAME>
+		<RATE>5</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Neutral</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Emiel Regis Rohellec Terzieff</NAME>
+		<RATE>5</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Neutral</DECK>
+	</CARD>
+		<CARD>
+		<NAME>Villentretenmerth</NAME>
+		<RATE>7</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL>Scorch</SPECIAL>
+		<TYPE/>
+		<DECK>Neutral</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Avallac'h</NAME>
+		<RATE>0</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL>Spy</SPECIAL>
+		<TYPE>Hero</TYPE>
+		<DECK>Neutral</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Vernon Roche</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Northern Realms</DECK>
+	</CARD>
+	<CARD>
+		<NAME>John Natalis</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Northern Realms</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Esterad Thyssen</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Northern Realms</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Philippa</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Northern Realms</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Thaler</NAME>
+		<RATE>1</RATE>
+		<ATTACK>Siege</ATTACK>
+		<SPECIAL>Spy</SPECIAL>
+		<TYPE/>
+		<DECK>Northern Realms</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Ves</NAME>
+		<RATE>5</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Northern Realms</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Siegfried of Denesle</NAME>
+		<RATE>5</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Northern Realms</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Yarpen Zigrin</NAME>
+		<RATE>2</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Northern Realms</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Sigismund Dijkstra</NAME>
+		<RATE>4</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL>Spy</SPECIAL>
+		<TYPE/>
+		<DECK>Northern Realms</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Keira Metz</NAME>
+		<RATE>5</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Northern Realms</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Letho of Gulet</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Nilfgaard</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Menno Coehoorn</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL>Medic</SPECIAL>
+		<TYPE>Hero</TYPE>
+		<DECK>Nilfgaard</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Morvran Voorhis</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Siege</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Nilfgaard</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Tibor Eggebracht</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Nilfgaard</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Albrich</NAME>
+		<RATE>2</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Nilfgaard</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Assire var Anahid</NAME>
+		<RATE>6</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Nilfgaard</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Cynthia</NAME>
+		<RATE>4</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Nilfgaard</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Fringilla Vigo</NAME>
+		<RATE>6</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Nilfgaard</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Morteisen</NAME>
+		<RATE>3</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Nilfgaard</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Rainfarn</NAME>
+		<RATE>4</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Nilfgaard</DECK>
+	</CARD>
+	<CARD>
+		<NAME>EithnÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€¦Ã‚Â¡ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â©</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Scoia'tael</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Saesenthessis</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Scoia'tael</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Isengrim Faoiltiarna</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL>Morale</SPECIAL>
+		<TYPE/>
+		<DECK>Scoia'tael</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Iorveth</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Scoia'tael</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Dennis Cranmer</NAME>
+		<RATE>6</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Scoia'tael</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Milva</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL>Morale</SPECIAL>
+		<TYPE/>
+		<DECK>Scoia'tael</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Ida Emean</NAME>
+		<RATE>6</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Scoia'tael</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Filavandrel</NAME>
+		<RATE>6</RATE>
+		<ATTACK>Melee/Ranged</ATTACK>
+		<SPECIAL>Agile</SPECIAL>
+		<TYPE/>
+		<DECK>Scoia'tael</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Yaevinn</NAME>
+		<RATE>6</RATE>
+		<ATTACK>Melee/Ranged</ATTACK>
+		<SPECIAL>Agile</SPECIAL>
+		<TYPE/>
+		<DECK>Scoia'tael</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Toruviel</NAME>
+		<RATE>2</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Scoia'tael</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Draug</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Monsters</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Kayran</NAME>
+		<RATE>8</RATE>
+		<ATTACK>Melee/Ranged</ATTACK>
+		<SPECIAL>Morale</SPECIAL>
+		<TYPE>Hero</TYPE>
+		<DECK>Monsters</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Imlerith</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Monsters</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Leshen</NAME>
+		<RATE>10</RATE>
+		<ATTACK>Ranged</ATTACK>
+		<SPECIAL/>
+		<TYPE>Hero</TYPE>
+		<DECK>Monsters</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Forktail</NAME>
+		<RATE>5</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Monsters</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Earth Elemental</NAME>
+		<RATE>6</RATE>
+		<ATTACK>Siege</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Monsters</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Fiend</NAME>
+		<RATE>6</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Monsters</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Plague Maiden</NAME>
+		<RATE>5</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Monsters</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Griffin</NAME>
+		<RATE>5</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Monsters</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Werewolf</NAME>
+		<RATE>5</RATE>
+		<ATTACK>Melee</ATTACK>
+		<SPECIAL/>
+		<TYPE/>
+		<DECK>Monsters</DECK>
+	</CARD>
+	<CARD>
+		<NAME>The Steel- Forged</NAME>
+		<RATE/>
+		<ATTACK/>
+		<SPECIAL>Scorch Siege if enemies Siege strength is 10 or higher</SPECIAL>
+		<TYPE/>
+		<DECK>Northern Realms Leaders</DECK>
+	</CARD>
+	<CARD>
+		<NAME>The Siegemaster</NAME>
+		<RATE/>
+		<ATTACK/>
+		<SPECIAL>Horn on Siege row</SPECIAL>
+		<TYPE/>
+		<DECK>Northern Realms Leaders</DECK>
+	</CARD>
+	<CARD>
+		<NAME>The Relentless</NAME>
+		<RATE/>
+		<ATTACK/>
+		<SPECIAL>Draw card from opponent's discard pile</SPECIAL>
+		<TYPE/>
+		<DECK>Nilfgaard Leaders</DECK>
+	</CARD>
+	<CARD>
+		<NAME>The White Flame</NAME>
+		<RATE/>
+		<ATTACK/>
+		<SPECIAL>Cancel your opponents Leader ability</SPECIAL>
+		<TYPE/>
+		<DECK>Nilfgaard Leaders</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Queen of Dol Blathanna</NAME>
+		<RATE/>
+		<ATTACK/>
+		<SPECIAL>Scorch Close Combat if enemies Close Combat strength is 10 or higher</SPECIAL>
+		<TYPE/>
+		<DECK>Scoia'tael Leaders</DECK>
+	</CARD>
+	<CARD>
+		<NAME>The Beautiful</NAME>
+		<RATE/>
+		<ATTACK/>
+		<SPECIAL>Horn effect on your Ranged Combat row</SPECIAL>
+		<TYPE/>
+		<DECK>Scoia'tael Leaders</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Destroyer of Worlds</NAME>
+		<RATE/>
+		<ATTACK/>
+		<SPECIAL>Pick a card from your discard pile and put it back into your hand</SPECIAL>
+		<TYPE/>
+		<DECK>Monsters Leaders</DECK>
+	</CARD>
+	<CARD>
+		<NAME>Bringer of Death</NAME>
+		<RATE/>
+		<ATTACK/>
+		<SPECIAL>Discard 2 cards from your hand, Draw 1 card of your choice from your deck</SPECIAL>
+		<TYPE/>
+		<DECK>Monsters Leaders</DECK>
+	</CARD>
+<CARD><NAME>Marken</NAME><RATE>15</RATE><ATTACK>Melee</ATTACK><SPECIAL>Programmer</SPECIAL><TYPE>Hero</TYPE><DECK>Monsters</DECK></CARD><CARD><NAME>Clodagh</NAME><RATE>9</RATE><ATTACK>Hurley Stick</ATTACK><SPECIAL>Spinning Kick </SPECIAL><TYPE>Yes</TYPE><DECK>Dublin</DECK></CARD></PACK>

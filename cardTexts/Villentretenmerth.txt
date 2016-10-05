@@ -1,0 +1,6 @@
+Name: Villentretenmerth<br>
+Rate: 7<br>
+Attack: Melee<br>
+Special: Scorch<br>
+Type: <br>
+Deck: Neutral<br>

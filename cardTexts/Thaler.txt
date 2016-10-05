@@ -1,0 +1,6 @@
+Name: Thaler<br>
+Rate: 1<br>
+Attack: Siege<br>
+Special:Spy <br>
+Type: <br>
+Deck: Nothern Realms<br>

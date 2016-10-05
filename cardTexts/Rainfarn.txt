@@ -1,0 +1,6 @@
+Name: Rainfarn<br>
+Rate: 4<br>
+Attack: Melee<br>
+Special: <br>
+Type: <br>
+Deck: Nilfgaard<br>

@@ -1,0 +1,6 @@
+Name: Cynthia<br>
+Rate: 4<br>
+Attack: Ranged<br>
+Special: <br>
+Type: <br>
+Deck: Nilfgaard<br>

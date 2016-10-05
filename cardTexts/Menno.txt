@@ -1,0 +1,6 @@
+Name: Menno Coehoorn<br>
+Rate: 10<br>
+Attack: Melee<br>
+Special: Medic<br>
+Type: Hero<br>
+Deck: Nilfgaard<br>

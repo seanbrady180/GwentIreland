@@ -1,0 +1,6 @@
+Name: Saesenthessis<br>
+Rate: 10<br>
+Attack: Ranged<br>
+Special: <br>
+Type: Hero<br>
+Deck: Scoia'tael<br>

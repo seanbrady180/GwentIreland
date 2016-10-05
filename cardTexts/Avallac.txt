@@ -1,0 +1,6 @@
+Name: Avallac<br>
+Rate: 0<br>
+Attack: Melee<br>
+Special: Spy<br>
+Type: Hero<br>
+Deck: Neutral<br>

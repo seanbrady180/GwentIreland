@@ -1,0 +1,6 @@
+Name: Sigismund Dijkstra<br>
+Rate: 4<br>
+Attack: Melee<br>
+Special: Spy<br>
+Type: <br>
+Deck: Nothern Realms<br>
